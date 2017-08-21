@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/knick/Emulation/Dolphin/dolphin/Source/Core/VideoBackends/OGL'
+let g:netrw_dirhist_2='/Users/knick/Emulation/Dolphin/dolphin/Source/Core/Common/GL/GLExtensions'
+let g:netrw_dirhist_3='/Users/knick/Emulation/Dolphin/dolphin/Source/Core/Common/GL/GLInterface'
+let g:netrw_dirhist_4='/Users/knick/Code/ds3optimizer/app'
+let g:netrw_dirhist_5='/Users/knick/.vim/pack/my-plugins/start/unite.vim'
