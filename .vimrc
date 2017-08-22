@@ -189,13 +189,3 @@ packloadall
 silent! helptags ALL
 
 ALEEnable
-call ale#Set('tcl_nagelfar_executable', '~/.vim/.linters/nagelfar12/nagelfar.tcl')
-
-function MyFunction()
-	echo "IT RAN"
-endfunction
-
-augroup MyGroup
-	autocmd!
-	autocmd User ALELint call MyFunction()
-augroup END
