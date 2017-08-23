@@ -1,0 +1,33 @@
+[submodule ".vim/pack/my-plugins/start/ale"]
+	path = .vim/pack/my-plugins/start/ale
+	url = https://github.com/w0rp/ale.git
+[submodule ".vim/pack/my-plugins/start/gruvbox"]
+	path = .vim/pack/my-plugins/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule ".vim/pack/my-plugins/start/vim-lucius"]
+	path = .vim/pack/my-plugins/start/vim-lucius
+	url = https://github.com/jonathanfilip/vim-lucius.git
+[submodule ".vim/pack/my-plugins/start/minimalist"]
+	path = .vim/pack/my-plugins/start/minimalist
+	url = https://github.com/dikiaap/minimalist.git
+[submodule ".vim/pack/my-plugins/start/molokai"]
+	path = .vim/pack/my-plugins/start/molokai
+	url = https://github.com/tomasr/molokai.git
+[submodule ".vim/pack/my-plugins/start/unite.vim"]
+	path = .vim/pack/my-plugins/start/unite.vim
+	url = https://github.com/Shougo/unite.vim.git
+[submodule ".vim/pack/my-plugins/start/vim-airline"]
+	path = .vim/pack/my-plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule ".vim/pack/my-plugins/start/vim-fugitive"]
+	path = .vim/pack/my-plugins/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule ".vim/pack/my-plugins/start/vim-showmap"]
+	path = .vim/pack/my-plugins/start/vim-showmap
+	url = https://github.com/fcpg/vim-showmap.git
+[submodule ".vim/pack/my-plugins/start/vim-unimpaired"]
+	path = .vim/pack/my-plugins/start/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
+[submodule ".vim/pack/my-plugins/start/vim_current_word"]
+	path = .vim/pack/my-plugins/start/vim_current_word
+	url = https://github.com/dominikduda/vim_current_word.git
