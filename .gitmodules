@@ -31,3 +31,21 @@
 [submodule ".vim/pack/my-plugins/start/vim_current_word"]
 	path = .vim/pack/my-plugins/start/vim_current_word
 	url = https://github.com/dominikduda/vim_current_word.git
+[submodule ".vim/pack/work/start/cake16"]
+	path = .vim/pack/work/start/cake16
+	url = https://github.com/zefei/cake16.git
+[submodule ".vim/pack/work/start/vim-coffee"]
+	path = .vim/pack/work/start/vim-coffee
+	url = https://github.com/duythinht/vim-coffee
+[submodule ".vim/pack/work/start/vim-colors-solarized"]
+	path = .vim/pack/work/start/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule ".vim/pack/work/start/vim-colorscheme-switcher"]
+	path = .vim/pack/work/start/vim-colorscheme-switcher
+	url = https://github.com/twe4ked/vim-colorscheme-switcher.git
+[submodule ".vim/pack/work/start/xml.vim"]
+	path = .vim/pack/work/start/xml.vim
+	url = https://github.com/othree/xml.vim
+[submodule ".vim/pack/work/start/vim-colortuner.vim"]
+	path = .vim/pack/work/start/vim-colortuner.vim
+	url = https://github.com/zefei/vim-colortuner.git
