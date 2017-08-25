@@ -22,9 +22,6 @@
 [submodule ".vim/pack/my-plugins/start/vim-fugitive"]
 	path = .vim/pack/my-plugins/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
-[submodule ".vim/pack/my-plugins/start/vim-showmap"]
-	path = .vim/pack/my-plugins/start/vim-showmap
-	url = https://github.com/fcpg/vim-showmap.git
 [submodule ".vim/pack/my-plugins/start/vim-unimpaired"]
 	path = .vim/pack/my-plugins/start/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
@@ -49,3 +46,6 @@
 [submodule ".vim/pack/work/start/vim-colortuner.vim"]
 	path = .vim/pack/work/start/vim-colortuner.vim
 	url = https://github.com/zefei/vim-colortuner.git
+[submodule ".vim/pack/my-plugins/start/vim-showmap"]
+	path = .vim/pack/my-plugins/start/vim-showmap
+	url = https://github.com/fcpg/vim-showmap.git
